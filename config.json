@@ -1,0 +1,45 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": "Locate the Shared Space Screen and turn it on",
+      "steps": [
+        {
+          "instruction": "The TV looks something like this: ",
+          "image": "Panel.Off.Switch.JPG",
+          "alt": "Video showing where the control panel is"
+        },
+        {
+          "instruction": "Let's start from scratch, make sure the system is off",
+          "image": "Panel.Off.Switch.JPG",
+          "alt": "Panel Off Switch location"
+        },
+        {
+          "instruction": "On this next screen, confirm that the system is off.",
+          "image": "Panel.Off.Switch.CONFIRM.JPG",
+          "alt": "Panel Off Switch Confirmation"
+        },
+        {
+          "instruction": "Now, let's pull the Auditorium scrim down. Select the 'Wall Plate' option from the screen on the panel.",
+          "image": "Panel.Wallplate.JPG",
+          "alt": "Panel Wallplate Button Location"
+        },
+        {
+          "instruction": "Voila! The scrim should now begin coming down in the Auditorium.",
+          "video_url": "https://drive.google.com/file/d/1RRPvPFicNgeJ5kug4vsSM27T6lO8QQWB/view?usp=sharing",
+          "alt": "Video showing the scrim coming down"
+        },
+        {
+          "instruction": "Now to control the computer connected, you must find the Auditorium Keyboard.",
+          "image": "Auditorium.keyboard.JPG",
+          "alt": "Auditorium Keyboard Pic"
+        },
+        {
+          "instruction": "Typically, the keyboard floats around the kitchen area of the second floor. Look for it somewhere in the following area.",
+          "image": "Auditorium.keyboard.location.JPG",
+          "alt": "Auditorium Keyboard Location"
+        }
+      ]
+    }
+  ]
+}
