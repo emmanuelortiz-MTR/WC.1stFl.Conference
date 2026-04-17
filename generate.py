@@ -62,7 +62,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>So you want to operate the Auditorium Main Projector?</h1>
+    <h1>So you want to operate the Westchester 1st floor Shared Space Screen?</h1>
     {options_html}
 </body>
 </html>
