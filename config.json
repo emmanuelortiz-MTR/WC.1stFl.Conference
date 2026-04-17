@@ -11,18 +11,18 @@
         },
         {
           "instruction": "On this next screen, let's pull up our INPUT options. Click on the menu button here and go to INPUTS",
-          "image": "Panel.Off.Switch.JPG",
-          "alt": "Panel Off Switch location"
+          "image": "1stFl.TV.on.jpg",
+          "alt": "Picture showing TV on and the menu button"
         },
         {
-          "instruction": "On this next screen, confirm that the system is off.",
-          "image": "Panel.Off.Switch.CONFIRM.JPG",
-          "alt": "Panel Off Switch Confirmation"
+          "instruction": "Here, we want to switch the input to the onboard computer. Click PC and select HDMI1",
+          "image": "1stFl.TV.Inputs.jpg",
+          "alt": "Picture showing Inputs screen and where to click"
         },
         {
-          "instruction": "Now, let's pull the Auditorium scrim down. Select the 'Wall Plate' option from the screen on the panel.",
-          "image": "Panel.Wallplate.JPG",
-          "alt": "Panel Wallplate Button Location"
+          "instruction": "A window similar to this should come up. Now let's make sure the computer is on.",
+          "image": "1stFl.TV.HDMI1.jpg",
+          "alt": "Picture showing PC Input window open"
         },
         {
           "instruction": "Voila! The scrim should now begin coming down in the Auditorium.",
