@@ -27,13 +27,17 @@ jobs:
         run: ls -la output/ || echo "output/ not yet created"
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git add output/
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update generated site"
-            git push
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin ${{ github.ref_name }}
           else
             echo "No changes to commit"
           fi
