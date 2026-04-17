@@ -1,4 +1,4 @@
-name: Generate Projector Guide Site
+name: Generate 1st Floor Conference Room Guide
 
 on:
   push:
