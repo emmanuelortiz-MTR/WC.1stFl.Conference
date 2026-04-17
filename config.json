@@ -6,11 +6,11 @@
       "steps": [
         {
           "instruction": "The TV looks something like this: ",
-          "image": "Panel.Off.Switch.JPG",
-          "alt": "Video showing where the control panel is"
+          "image": "1stFl.TV.off.jpg",
+          "alt": "Picture showing where the main room TV is"
         },
         {
-          "instruction": "Let's start from scratch, make sure the system is off",
+          "instruction": "On this next screen, let's pull up our INPUT options. Click on the menu button here and go to INPUTS",
           "image": "Panel.Off.Switch.JPG",
           "alt": "Panel Off Switch location"
         },
