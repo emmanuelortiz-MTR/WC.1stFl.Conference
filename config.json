@@ -25,19 +25,19 @@
           "alt": "Picture showing PC Input window open"
         },
         {
-          "instruction": "Voila! The scrim should now begin coming down in the Auditorium.",
-          "video_url": "https://drive.google.com/file/d/1RRPvPFicNgeJ5kug4vsSM27T6lO8QQWB/view?usp=sharing",
-          "alt": "Video showing the scrim coming down"
+          "instruction": "The computer we're looking for should be directly underneath our big screen. Check to see if it's powered on, if it's off, go ahead and push the power button.",
+          "image": "1stFl.ComputerLocation.jpg",
+          "alt": "Picture showing computer location"
         },
         {
-          "instruction": "Now to control the computer connected, you must find the Auditorium Keyboard.",
-          "image": "Auditorium.keyboard.JPG",
-          "alt": "Auditorium Keyboard Pic"
+          "instruction": "Once the computer is powered on and cycles through it's startup, we should see a screen that looks like this:",
+          "image": "1stFl.TV.LoginScreen",
+          "alt": "Picture showing PC login screen and where to click for other user"
         },
         {
-          "instruction": "Typically, the keyboard floats around the kitchen area of the second floor. Look for it somewhere in the following area.",
-          "image": "Auditorium.keyboard.location.JPG",
-          "alt": "Auditorium Keyboard Location"
+          "instruction": "Now you just gotta log in! Find your keyboard and power it on and feel free to start operating the shared space screen!",
+          "image": "1stFl.ComputerKeyboard.jpg",
+          "alt": "Picture showing the shared space computer and the swich to turn it on"
         }
       ]
     }
